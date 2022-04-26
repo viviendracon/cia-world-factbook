@@ -1,0 +1,1899 @@
+[
+  {
+    "Country": "Afghanistan",
+    "FIPS": "AF",
+    "ISO": "AF | AFG | 004",
+    "Internet_Code": ".af",
+    "Comment": ""
+  },
+  {
+    "Country": "Akrotiri",
+    "FIPS": "AX",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": ""
+  },
+  {
+    "Country": "Albania",
+    "FIPS": "AL",
+    "ISO": "AL | ALB | 008",
+    "Internet_Code": ".al",
+    "Comment": ""
+  },
+  {
+    "Country": "Algeria",
+    "FIPS": "AG",
+    "ISO": "DZ | DZA | 012",
+    "Internet_Code": ".dz",
+    "Comment": ""
+  },
+  {
+    "Country": "American Samoa",
+    "FIPS": "AQ",
+    "ISO": "AS | ASM | 016",
+    "Internet_Code": ".as",
+    "Comment": ""
+  },
+  {
+    "Country": "Andorra",
+    "FIPS": "AN",
+    "ISO": "AD | AND | 020",
+    "Internet_Code": ".ad",
+    "Comment": ""
+  },
+  {
+    "Country": "Angola",
+    "FIPS": "AO",
+    "ISO": "AO | AGO | 024",
+    "Internet_Code": ".ao",
+    "Comment": ""
+  },
+  {
+    "Country": "Anguilla",
+    "FIPS": "AV",
+    "ISO": "AI | AIA | 660",
+    "Internet_Code": ".ai",
+    "Comment": ""
+  },
+  {
+    "Country": "Antarctica",
+    "FIPS": "AY",
+    "ISO": "AQ | ATA | 010",
+    "Internet_Code": ".aq",
+    "Comment": "ISO defines as the territory south of 60 degrees south latitude"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "FIPS": "AC",
+    "ISO": "AG | ATG | 028",
+    "Internet_Code": ".ag",
+    "Comment": ""
+  },
+  {
+    "Country": "Argentina",
+    "FIPS": "AR",
+    "ISO": "AR | ARG | 032",
+    "Internet_Code": ".ar",
+    "Comment": ""
+  },
+  {
+    "Country": "Armenia",
+    "FIPS": "AM",
+    "ISO": "AM | ARM | 051",
+    "Internet_Code": ".am",
+    "Comment": ""
+  },
+  {
+    "Country": "Aruba",
+    "FIPS": "AA",
+    "ISO": "AW | ABW | 533",
+    "Internet_Code": ".aw",
+    "Comment": ""
+  },
+  {
+    "Country": "Ashmore and Cartier Islands",
+    "FIPS": "AT",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with Australia"
+  },
+  {
+    "Country": "Australia",
+    "FIPS": "AS",
+    "ISO": "AU | AUS | 036",
+    "Internet_Code": ".au",
+    "Comment": "ISO includes Ashmore and Cartier Islands, Coral Sea Islands"
+  },
+  {
+    "Country": "Austria",
+    "FIPS": "AU",
+    "ISO": "AT | AUT | 040",
+    "Internet_Code": ".at",
+    "Comment": ""
+  },
+  {
+    "Country": "Azerbaijan",
+    "FIPS": "AJ",
+    "ISO": "AZ | AZE | 031",
+    "Internet_Code": ".az",
+    "Comment": ""
+  },
+  {
+    "Country": "Bahamas The",
+    "FIPS": "BF",
+    "ISO": "BS | BHS | 044",
+    "Internet_Code": ".bs",
+    "Comment": ""
+  },
+  {
+    "Country": "Bahrain",
+    "FIPS": "BA",
+    "ISO": "BH | BHR | 048",
+    "Internet_Code": ".bh",
+    "Comment": ""
+  },
+  {
+    "Country": "Baker Island",
+    "FIPS": "FQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Bangladesh",
+    "FIPS": "BG",
+    "ISO": "BD | BGD | 050",
+    "Internet_Code": ".bd",
+    "Comment": ""
+  },
+  {
+    "Country": "Barbados",
+    "FIPS": "BB",
+    "ISO": "BB | BRB | 052",
+    "Internet_Code": ".bb",
+    "Comment": ""
+  },
+  {
+    "Country": "Bassas da India",
+    "FIPS": "BS",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+  },
+  {
+    "Country": "Belarus",
+    "FIPS": "BO",
+    "ISO": "BY | BLR | 112",
+    "Internet_Code": ".by",
+    "Comment": ""
+  },
+  {
+    "Country": "Belgium",
+    "FIPS": "BE",
+    "ISO": "BE | BEL | 056",
+    "Internet_Code": ".be",
+    "Comment": ""
+  },
+  {
+    "Country": "Belize",
+    "FIPS": "BH",
+    "ISO": "BZ | BLZ | 084",
+    "Internet_Code": ".bz",
+    "Comment": ""
+  },
+  {
+    "Country": "Benin",
+    "FIPS": "BN",
+    "ISO": "BJ | BEN | 204",
+    "Internet_Code": ".bj",
+    "Comment": ""
+  },
+  {
+    "Country": "Bermuda",
+    "FIPS": "BD",
+    "ISO": "BM | BMU | 060",
+    "Internet_Code": ".bm",
+    "Comment": ""
+  },
+  {
+    "Country": "Bhutan",
+    "FIPS": "BT",
+    "ISO": "BT | BTN | 064",
+    "Internet_Code": ".bt",
+    "Comment": ""
+  },
+  {
+    "Country": "Bolivia",
+    "FIPS": "BL",
+    "ISO": "BO | BOL | 068",
+    "Internet_Code": ".bo",
+    "Comment": ""
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "FIPS": "BK",
+    "ISO": "BA | BIH | 070",
+    "Internet_Code": ".ba",
+    "Comment": ""
+  },
+  {
+    "Country": "Botswana",
+    "FIPS": "BC",
+    "ISO": "BW | BWA | 072",
+    "Internet_Code": ".bw",
+    "Comment": ""
+  },
+  {
+    "Country": "Bouvet Island",
+    "FIPS": "BV",
+    "ISO": "BV | BVT | 074",
+    "Internet_Code": ".bv",
+    "Comment": ""
+  },
+  {
+    "Country": "Brazil",
+    "FIPS": "BR",
+    "ISO": "BR | BRA | 076",
+    "Internet_Code": ".br",
+    "Comment": ""
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "FIPS": "IO",
+    "ISO": "IO | IOT | 086",
+    "Internet_Code": ".io",
+    "Comment": ""
+  },
+  {
+    "Country": "British Virgin Islands",
+    "FIPS": "VI",
+    "ISO": "VG | VGB | 092",
+    "Internet_Code": ".vg",
+    "Comment": ""
+  },
+  {
+    "Country": "Brunei",
+    "FIPS": "BX",
+    "ISO": "BN | BRN | 096",
+    "Internet_Code": ".bn",
+    "Comment": ""
+  },
+  {
+    "Country": "Bulgaria",
+    "FIPS": "BU",
+    "ISO": "BG | BGR | 100",
+    "Internet_Code": ".bg",
+    "Comment": ""
+  },
+  {
+    "Country": "Burkina Faso",
+    "FIPS": "UV",
+    "ISO": "BF | BFA | 854",
+    "Internet_Code": ".bf",
+    "Comment": ""
+  },
+  {
+    "Country": "Burma",
+    "FIPS": "BM",
+    "ISO": "MM | MMR | 104",
+    "Internet_Code": ".mm",
+    "Comment": "ISO uses the name Myanmar"
+  },
+  {
+    "Country": "Burundi",
+    "FIPS": "BY",
+    "ISO": "BI | BDI | 108",
+    "Internet_Code": ".bi",
+    "Comment": ""
+  },
+  {
+    "Country": "Cabo Verde",
+    "FIPS": "CV",
+    "ISO": "CV | CPV | 132",
+    "Internet_Code": ".cv",
+    "Comment": ""
+  },
+  {
+    "Country": "Cambodia",
+    "FIPS": "CB",
+    "ISO": "KH | KHM | 116",
+    "Internet_Code": ".kh",
+    "Comment": ""
+  },
+  {
+    "Country": "Cameroon",
+    "FIPS": "CM",
+    "ISO": "CM | CMR | 120",
+    "Internet_Code": ".cm",
+    "Comment": ""
+  },
+  {
+    "Country": "Canada",
+    "FIPS": "CA",
+    "ISO": "CA | CAN | 124",
+    "Internet_Code": ".ca",
+    "Comment": ""
+  },
+  {
+    "Country": "Cayman Islands",
+    "FIPS": "CJ",
+    "ISO": "KY | CYM | 136",
+    "Internet_Code": ".ky",
+    "Comment": ""
+  },
+  {
+    "Country": "Central African Republic",
+    "FIPS": "CT",
+    "ISO": "CF | CAF | 140",
+    "Internet_Code": ".cf",
+    "Comment": ""
+  },
+  {
+    "Country": "Chad",
+    "FIPS": "CD",
+    "ISO": "TD | TCD | 148",
+    "Internet_Code": ".td",
+    "Comment": ""
+  },
+  {
+    "Country": "Chile",
+    "FIPS": "CI",
+    "ISO": "CL | CHL | 152",
+    "Internet_Code": ".cl",
+    "Comment": ""
+  },
+  {
+    "Country": "China",
+    "FIPS": "CH",
+    "ISO": "CN | CHN | 156",
+    "Internet_Code": ".cn",
+    "Comment": "see also Taiwan"
+  },
+  {
+    "Country": "Christmas Island",
+    "FIPS": "KT",
+    "ISO": "CX | CXR | 162",
+    "Internet_Code": ".cx",
+    "Comment": ""
+  },
+  {
+    "Country": "Clipperton Island",
+    "FIPS": "IP",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with France"
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "FIPS": "CK",
+    "ISO": "CC | CCK | 166",
+    "Internet_Code": ".cc",
+    "Comment": ""
+  },
+  {
+    "Country": "Colombia",
+    "FIPS": "CO",
+    "ISO": "CO | COL | 170",
+    "Internet_Code": ".co",
+    "Comment": ""
+  },
+  {
+    "Country": "Comoros",
+    "FIPS": "CN",
+    "ISO": "KM | COM | 174",
+    "Internet_Code": ".km",
+    "Comment": ""
+  },
+  {
+    "Country": "Congo Democratic Republic of the",
+    "FIPS": "CG",
+    "ISO": "CD | COD | 180",
+    "Internet_Code": ".cd",
+    "Comment": "formerly Zaire"
+  },
+  {
+    "Country": "Congo Republic of the",
+    "FIPS": "CF",
+    "ISO": "CG | COG | 178",
+    "Internet_Code": ".cg",
+    "Comment": ""
+  },
+  {
+    "Country": "Cook Islands",
+    "FIPS": "CW",
+    "ISO": "CK | COK | 184",
+    "Internet_Code": ".ck",
+    "Comment": ""
+  },
+  {
+    "Country": "Coral Sea Islands",
+    "FIPS": "CR",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with Australia"
+  },
+  {
+    "Country": "Costa Rica",
+    "FIPS": "CS",
+    "ISO": "CR | CRI | 188",
+    "Internet_Code": ".cr",
+    "Comment": ""
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "FIPS": "IV",
+    "ISO": "CI | CIV | 384",
+    "Internet_Code": ".ci",
+    "Comment": ""
+  },
+  {
+    "Country": "Croatia",
+    "FIPS": "HR",
+    "ISO": "HR | HRV | 191",
+    "Internet_Code": ".hr",
+    "Comment": ""
+  },
+  {
+    "Country": "Cuba",
+    "FIPS": "CU",
+    "ISO": "CU | CUB | 192",
+    "Internet_Code": ".cu",
+    "Comment": ""
+  },
+  {
+    "Country": "Curacao",
+    "FIPS": "UC",
+    "ISO": "CW | CUW | 531",
+    "Internet_Code": ".cw",
+    "Comment": ""
+  },
+  {
+    "Country": "Cyprus",
+    "FIPS": "CY",
+    "ISO": "CY | CYP | 196",
+    "Internet_Code": ".cy",
+    "Comment": ""
+  },
+  {
+    "Country": "Czechia",
+    "FIPS": "EZ",
+    "ISO": "CZ | CZE | 203",
+    "Internet_Code": ".cz",
+    "Comment": ""
+  },
+  {
+    "Country": "Denmark",
+    "FIPS": "DA",
+    "ISO": "DK | DNK | 208",
+    "Internet_Code": ".dk",
+    "Comment": ""
+  },
+  {
+    "Country": "Dhekelia",
+    "FIPS": "DX",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": ""
+  },
+  {
+    "Country": "Djibouti",
+    "FIPS": "DJ",
+    "ISO": "DJ | DJI | 262",
+    "Internet_Code": ".dj",
+    "Comment": ""
+  },
+  {
+    "Country": "Dominica",
+    "FIPS": "DO",
+    "ISO": "DM | DMA | 212",
+    "Internet_Code": ".dm",
+    "Comment": ""
+  },
+  {
+    "Country": "Dominican Republic",
+    "FIPS": "DR",
+    "ISO": "DO | DOM | 214",
+    "Internet_Code": ".do",
+    "Comment": ""
+  },
+  {
+    "Country": "Ecuador",
+    "FIPS": "EC",
+    "ISO": "EC | ECU | 218",
+    "Internet_Code": ".ec",
+    "Comment": ""
+  },
+  {
+    "Country": "Egypt",
+    "FIPS": "EG",
+    "ISO": "EG | EGY | 818",
+    "Internet_Code": ".eg",
+    "Comment": ""
+  },
+  {
+    "Country": "El Salvador",
+    "FIPS": "ES",
+    "ISO": "SV | SLV | 222",
+    "Internet_Code": ".sv",
+    "Comment": ""
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "FIPS": "EK",
+    "ISO": "GQ | GNQ | 226",
+    "Internet_Code": ".gq",
+    "Comment": ""
+  },
+  {
+    "Country": "Eritrea",
+    "FIPS": "ER",
+    "ISO": "ER | ERI | 232",
+    "Internet_Code": ".er",
+    "Comment": ""
+  },
+  {
+    "Country": "Estonia",
+    "FIPS": "EN",
+    "ISO": "EE | EST | 233",
+    "Internet_Code": ".ee",
+    "Comment": ""
+  },
+  {
+    "Country": "Eswatini",
+    "FIPS": "WZ",
+    "ISO": "SZ | SWZ | 748",
+    "Internet_Code": ".sz",
+    "Comment": ""
+  },
+  {
+    "Country": "Ethiopia",
+    "FIPS": "ET",
+    "ISO": "ET | ETH | 231",
+    "Internet_Code": ".et",
+    "Comment": ""
+  },
+  {
+    "Country": "Europa Island",
+    "FIPS": "EU",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+  },
+  {
+    "Country": "Falkland Islands (Islas Malvinas)",
+    "FIPS": "FK",
+    "ISO": "FK | FLK | 238",
+    "Internet_Code": ".fk",
+    "Comment": ""
+  },
+  {
+    "Country": "Faroe Islands",
+    "FIPS": "FO",
+    "ISO": "FO | FRO | 234",
+    "Internet_Code": ".fo",
+    "Comment": ""
+  },
+  {
+    "Country": "Fiji",
+    "FIPS": "FJ",
+    "ISO": "FJ | FJI | 242",
+    "Internet_Code": ".fj",
+    "Comment": ""
+  },
+  {
+    "Country": "Finland",
+    "FIPS": "FI",
+    "ISO": "FI | FIN | 246",
+    "Internet_Code": ".fi",
+    "Comment": ""
+  },
+  {
+    "Country": "France",
+    "FIPS": "FR",
+    "ISO": "FR | FRA | 250",
+    "Internet_Code": ".fr",
+    "Comment": "ISO includes metropolitan France along with the dependencies of Clipperton Island, French Guiana, French Polynesia, French Southern and Antarctic Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Pierre and Miquelon, Wallis and Futuna"
+  },
+  {
+    "Country": "French Guiana",
+    "FIPS": "FG",
+    "ISO": "GF | GUF | 254",
+    "Internet_Code": ".gf",
+    "Comment": ""
+  },
+  {
+    "Country": "French Polynesia",
+    "FIPS": "FP",
+    "ISO": "PF | PYF | 258",
+    "Internet_Code": ".pf",
+    "Comment": ""
+  },
+  {
+    "Country": "French Southern and Antarctic Lands",
+    "FIPS": "FS",
+    "ISO": "TF | ATF | 260",
+    "Internet_Code": ".tf",
+    "Comment": "GEC does not include the French-claimed portion of Antarctica (Terre Adelie)"
+  },
+  {
+    "Country": "Gabon",
+    "FIPS": "GB",
+    "ISO": "GA | GAB | 266",
+    "Internet_Code": ".ga",
+    "Comment": ""
+  },
+  {
+    "Country": "Gambia The",
+    "FIPS": "GA",
+    "ISO": "GM | GMB | 270",
+    "Internet_Code": ".gm",
+    "Comment": ""
+  },
+  {
+    "Country": "Gaza Strip",
+    "FIPS": "GZ",
+    "ISO": "PS | PSE | 275",
+    "Internet_Code": ".ps",
+    "Comment": "ISO identifies as Occupied Palestinian Territory"
+  },
+  {
+    "Country": "Georgia",
+    "FIPS": "GG",
+    "ISO": "GE | GEO | 268",
+    "Internet_Code": ".ge",
+    "Comment": ""
+  },
+  {
+    "Country": "Germany",
+    "FIPS": "GM",
+    "ISO": "DE | DEU | 276",
+    "Internet_Code": ".de",
+    "Comment": ""
+  },
+  {
+    "Country": "Ghana",
+    "FIPS": "GH",
+    "ISO": "GH | GHA | 288",
+    "Internet_Code": ".gh",
+    "Comment": ""
+  },
+  {
+    "Country": "Gibraltar",
+    "FIPS": "GI",
+    "ISO": "GI | GIB | 292",
+    "Internet_Code": ".gi",
+    "Comment": ""
+  },
+  {
+    "Country": "Glorioso Islands",
+    "FIPS": "GO",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+  },
+  {
+    "Country": "Greece",
+    "FIPS": "GR",
+    "ISO": "GR | GRC | 300",
+    "Internet_Code": ".gr",
+    "Comment": "For its internal communications, the European Union recommends the use of the code EL in lieu of the ISO 3166-2 code of GR"
+  },
+  {
+    "Country": "Greenland",
+    "FIPS": "GL",
+    "ISO": "GL | GRL | 304",
+    "Internet_Code": ".gl",
+    "Comment": ""
+  },
+  {
+    "Country": "Grenada",
+    "FIPS": "GJ",
+    "ISO": "GD | GRD | 308",
+    "Internet_Code": ".gd",
+    "Comment": ""
+  },
+  {
+    "Country": "Guadeloupe",
+    "FIPS": "GP",
+    "ISO": "GP | GLP | 312",
+    "Internet_Code": ".gp",
+    "Comment": ""
+  },
+  {
+    "Country": "Guam",
+    "FIPS": "GQ",
+    "ISO": "GU | GUM | 316",
+    "Internet_Code": ".gu",
+    "Comment": ""
+  },
+  {
+    "Country": "Guatemala",
+    "FIPS": "GT",
+    "ISO": "GT | GTM | 320",
+    "Internet_Code": ".gt",
+    "Comment": ""
+  },
+  {
+    "Country": "Guernsey",
+    "FIPS": "GK",
+    "ISO": "GG | GGY | 831",
+    "Internet_Code": ".gg",
+    "Comment": ""
+  },
+  {
+    "Country": "Guinea",
+    "FIPS": "GV",
+    "ISO": "GN | GIN | 324",
+    "Internet_Code": ".gn",
+    "Comment": ""
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "FIPS": "PU",
+    "ISO": "GW | GNB | 624",
+    "Internet_Code": ".gw",
+    "Comment": ""
+  },
+  {
+    "Country": "Guyana",
+    "FIPS": "GY",
+    "ISO": "GY | GUY | 328",
+    "Internet_Code": ".gy",
+    "Comment": ""
+  },
+  {
+    "Country": "Haiti",
+    "FIPS": "HA",
+    "ISO": "HT | HTI | 332",
+    "Internet_Code": ".ht",
+    "Comment": ""
+  },
+  {
+    "Country": "Heard Island and McDonald Islands",
+    "FIPS": "HM",
+    "ISO": "HM | HMD | 334",
+    "Internet_Code": ".hm",
+    "Comment": ""
+  },
+  {
+    "Country": "Holy See (Vatican City)",
+    "FIPS": "VT",
+    "ISO": "VA | VAT | 336",
+    "Internet_Code": ".va",
+    "Comment": ""
+  },
+  {
+    "Country": "Honduras",
+    "FIPS": "HO",
+    "ISO": "HN | HND | 340",
+    "Internet_Code": ".hn",
+    "Comment": ""
+  },
+  {
+    "Country": "Hong Kong",
+    "FIPS": "HK",
+    "ISO": "HK | HKG | 344",
+    "Internet_Code": ".hk",
+    "Comment": ""
+  },
+  {
+    "Country": "Howland Island",
+    "FIPS": "HQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Hungary",
+    "FIPS": "HU",
+    "ISO": "HU | HUN | 348",
+    "Internet_Code": ".hu",
+    "Comment": ""
+  },
+  {
+    "Country": "Iceland",
+    "FIPS": "IC",
+    "ISO": "IS | ISL | 352",
+    "Internet_Code": ".is",
+    "Comment": ""
+  },
+  {
+    "Country": "India",
+    "FIPS": "IN",
+    "ISO": "IN | IND | 356",
+    "Internet_Code": ".in",
+    "Comment": ""
+  },
+  {
+    "Country": "Indonesia",
+    "FIPS": "ID",
+    "ISO": "ID | IDN | 360",
+    "Internet_Code": ".id",
+    "Comment": ""
+  },
+  {
+    "Country": "Iran",
+    "FIPS": "IR",
+    "ISO": "IR | IRN | 364",
+    "Internet_Code": ".ir",
+    "Comment": ""
+  },
+  {
+    "Country": "Iraq",
+    "FIPS": "IZ",
+    "ISO": "IQ | IRQ | 368",
+    "Internet_Code": ".iq",
+    "Comment": ""
+  },
+  {
+    "Country": "Ireland",
+    "FIPS": "EI",
+    "ISO": "IE | IRL | 372",
+    "Internet_Code": ".ie",
+    "Comment": ""
+  },
+  {
+    "Country": "Isle of Man",
+    "FIPS": "IM",
+    "ISO": "IM | IMN | 833",
+    "Internet_Code": ".im",
+    "Comment": ""
+  },
+  {
+    "Country": "Israel",
+    "FIPS": "IS",
+    "ISO": "IL | ISR | 376",
+    "Internet_Code": ".il",
+    "Comment": ""
+  },
+  {
+    "Country": "Italy",
+    "FIPS": "IT",
+    "ISO": "IT | ITA | 380",
+    "Internet_Code": ".it",
+    "Comment": ""
+  },
+  {
+    "Country": "Jamaica",
+    "FIPS": "JM",
+    "ISO": "JM | JAM | 388",
+    "Internet_Code": ".jm",
+    "Comment": ""
+  },
+  {
+    "Country": "Jan Mayen",
+    "FIPS": "JN",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with Svalbard"
+  },
+  {
+    "Country": "Japan",
+    "FIPS": "JA",
+    "ISO": "JP | JPN | 392",
+    "Internet_Code": ".jp",
+    "Comment": ""
+  },
+  {
+    "Country": "Jarvis Island",
+    "FIPS": "DQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Jersey",
+    "FIPS": "JE",
+    "ISO": "JE | JEY | 832",
+    "Internet_Code": ".je",
+    "Comment": ""
+  },
+  {
+    "Country": "Johnston Atoll",
+    "FIPS": "JQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Jordan",
+    "FIPS": "JO",
+    "ISO": "JO | JOR | 400",
+    "Internet_Code": ".jo",
+    "Comment": ""
+  },
+  {
+    "Country": "Juan de Nova Island",
+    "FIPS": "JU",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+  },
+  {
+    "Country": "Kazakhstan",
+    "FIPS": "KZ",
+    "ISO": "KZ | KAZ | 398",
+    "Internet_Code": ".kz",
+    "Comment": ""
+  },
+  {
+    "Country": "Kenya",
+    "FIPS": "KE",
+    "ISO": "KE | KEN | 404",
+    "Internet_Code": ".ke",
+    "Comment": ""
+  },
+  {
+    "Country": "Kingman Reef",
+    "FIPS": "KQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Kiribati",
+    "FIPS": "KR",
+    "ISO": "KI | KIR | 296",
+    "Internet_Code": ".ki",
+    "Comment": ""
+  },
+  {
+    "Country": "Korea North",
+    "FIPS": "KN",
+    "ISO": "KP | PRK | 408",
+    "Internet_Code": ".kp",
+    "Comment": ""
+  },
+  {
+    "Country": "Korea South",
+    "FIPS": "KS",
+    "ISO": "KR | KOR | 410",
+    "Internet_Code": ".kr",
+    "Comment": ""
+  },
+  {
+    "Country": "Kosovo",
+    "FIPS": "KV",
+    "ISO": "XK | KSV | -",
+    "Internet_Code": "-",
+    "Comment": "XK and XKS are ISO 3166 user assigned codes; ISO 3166 Maintenace Authority has not assigned codes"
+  },
+  {
+    "Country": "Kuwait",
+    "FIPS": "KU",
+    "ISO": "KW | KWT | 414",
+    "Internet_Code": ".kw",
+    "Comment": ""
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "FIPS": "KG",
+    "ISO": "KG | KGZ | 417",
+    "Internet_Code": ".kg",
+    "Comment": ""
+  },
+  {
+    "Country": "Laos",
+    "FIPS": "LA",
+    "ISO": "LA | LAO | 418",
+    "Internet_Code": ".la",
+    "Comment": ""
+  },
+  {
+    "Country": "Latvia",
+    "FIPS": "LG",
+    "ISO": "LV | LVA | 428",
+    "Internet_Code": ".lv",
+    "Comment": ""
+  },
+  {
+    "Country": "Lebanon",
+    "FIPS": "LE",
+    "ISO": "LB | LBN | 422",
+    "Internet_Code": ".lb",
+    "Comment": ""
+  },
+  {
+    "Country": "Lesotho",
+    "FIPS": "LT",
+    "ISO": "LS | LSO | 426",
+    "Internet_Code": ".ls",
+    "Comment": ""
+  },
+  {
+    "Country": "Liberia",
+    "FIPS": "LI",
+    "ISO": "LR | LBR | 430",
+    "Internet_Code": ".lr",
+    "Comment": ""
+  },
+  {
+    "Country": "Libya",
+    "FIPS": "LY",
+    "ISO": "LY | LBY | 434",
+    "Internet_Code": ".ly",
+    "Comment": ""
+  },
+  {
+    "Country": "Liechtenstein",
+    "FIPS": "LS",
+    "ISO": "LI | LIE | 438",
+    "Internet_Code": ".li",
+    "Comment": ""
+  },
+  {
+    "Country": "Lithuania",
+    "FIPS": "LH",
+    "ISO": "LT | LTU | 440",
+    "Internet_Code": ".lt",
+    "Comment": ""
+  },
+  {
+    "Country": "Luxembourg",
+    "FIPS": "LU",
+    "ISO": "LU | LUX | 442",
+    "Internet_Code": ".lu",
+    "Comment": ""
+  },
+  {
+    "Country": "Macau",
+    "FIPS": "MC",
+    "ISO": "MO | MAC | 446",
+    "Internet_Code": ".mo",
+    "Comment": ""
+  },
+  {
+    "Country": "Madagascar",
+    "FIPS": "MA",
+    "ISO": "MG | MDG | 450",
+    "Internet_Code": ".mg",
+    "Comment": ""
+  },
+  {
+    "Country": "Malawi",
+    "FIPS": "MI",
+    "ISO": "MW | MWI | 454",
+    "Internet_Code": ".mw",
+    "Comment": ""
+  },
+  {
+    "Country": "Malaysia",
+    "FIPS": "MY",
+    "ISO": "MY | MYS | 458",
+    "Internet_Code": ".my",
+    "Comment": ""
+  },
+  {
+    "Country": "Maldives",
+    "FIPS": "MV",
+    "ISO": "MV | MDV | 462",
+    "Internet_Code": ".mv",
+    "Comment": ""
+  },
+  {
+    "Country": "Mali",
+    "FIPS": "ML",
+    "ISO": "ML | MLI | 466",
+    "Internet_Code": ".ml",
+    "Comment": ""
+  },
+  {
+    "Country": "Malta",
+    "FIPS": "MT",
+    "ISO": "MT | MLT | 470",
+    "Internet_Code": ".mt",
+    "Comment": ""
+  },
+  {
+    "Country": "Marshall Islands",
+    "FIPS": "RM",
+    "ISO": "MH | MHL | 584",
+    "Internet_Code": ".mh",
+    "Comment": ""
+  },
+  {
+    "Country": "Martinique",
+    "FIPS": "MB",
+    "ISO": "MQ | MTQ | 474",
+    "Internet_Code": ".mq",
+    "Comment": ""
+  },
+  {
+    "Country": "Mauritania",
+    "FIPS": "MR",
+    "ISO": "MR | MRT | 478",
+    "Internet_Code": ".mr",
+    "Comment": ""
+  },
+  {
+    "Country": "Mauritius",
+    "FIPS": "MP",
+    "ISO": "MU | MUS | 480",
+    "Internet_Code": ".mu",
+    "Comment": ""
+  },
+  {
+    "Country": "Mayotte",
+    "FIPS": "MF",
+    "ISO": "YT | MYT | 175",
+    "Internet_Code": ".yt",
+    "Comment": ""
+  },
+  {
+    "Country": "Mexico",
+    "FIPS": "MX",
+    "ISO": "MX | MEX | 484",
+    "Internet_Code": ".mx",
+    "Comment": ""
+  },
+  {
+    "Country": "Micronesia Federated States of",
+    "FIPS": "FM",
+    "ISO": "FM | FSM | 583",
+    "Internet_Code": ".fm",
+    "Comment": ""
+  },
+  {
+    "Country": "Midway Islands",
+    "FIPS": "MQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Moldova",
+    "FIPS": "MD",
+    "ISO": "MD | MDA | 498",
+    "Internet_Code": ".md",
+    "Comment": ""
+  },
+  {
+    "Country": "Monaco",
+    "FIPS": "MN",
+    "ISO": "MC | MCO | 492",
+    "Internet_Code": ".mc",
+    "Comment": ""
+  },
+  {
+    "Country": "Mongolia",
+    "FIPS": "MG",
+    "ISO": "MN | MNG | 496",
+    "Internet_Code": ".mn",
+    "Comment": ""
+  },
+  {
+    "Country": "Montenegro",
+    "FIPS": "MJ",
+    "ISO": "ME | MNE | 499",
+    "Internet_Code": ".me",
+    "Comment": ""
+  },
+  {
+    "Country": "Montserrat",
+    "FIPS": "MH",
+    "ISO": "MS | MSR | 500",
+    "Internet_Code": ".ms",
+    "Comment": ""
+  },
+  {
+    "Country": "Morocco",
+    "FIPS": "MO",
+    "ISO": "MA | MAR | 504",
+    "Internet_Code": ".ma",
+    "Comment": ""
+  },
+  {
+    "Country": "Mozambique",
+    "FIPS": "MZ",
+    "ISO": "MZ | MOZ | 508",
+    "Internet_Code": ".mz",
+    "Comment": ""
+  },
+  {
+    "Country": "Namibia",
+    "FIPS": "WA",
+    "ISO": "NA | NAM | 516",
+    "Internet_Code": ".na",
+    "Comment": ""
+  },
+  {
+    "Country": "Nauru",
+    "FIPS": "NR",
+    "ISO": "NR | NRU | 520",
+    "Internet_Code": ".nr",
+    "Comment": ""
+  },
+  {
+    "Country": "Navassa Island",
+    "FIPS": "BQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Nepal",
+    "FIPS": "NP",
+    "ISO": "NP | NPL | 524",
+    "Internet_Code": ".np",
+    "Comment": ""
+  },
+  {
+    "Country": "Netherlands",
+    "FIPS": "NL",
+    "ISO": "NL | NLD | 528",
+    "Internet_Code": ".nl",
+    "Comment": ""
+  },
+  {
+    "Country": "New Caledonia",
+    "FIPS": "NC",
+    "ISO": "NC | NCL | 540",
+    "Internet_Code": ".nc",
+    "Comment": ""
+  },
+  {
+    "Country": "New Zealand",
+    "FIPS": "NZ",
+    "ISO": "NZ | NZL | 554",
+    "Internet_Code": ".nz",
+    "Comment": ""
+  },
+  {
+    "Country": "Nicaragua",
+    "FIPS": "NU",
+    "ISO": "NI | NIC | 558",
+    "Internet_Code": ".ni",
+    "Comment": ""
+  },
+  {
+    "Country": "Niger",
+    "FIPS": "NG",
+    "ISO": "NE | NER | 562",
+    "Internet_Code": ".ne",
+    "Comment": ""
+  },
+  {
+    "Country": "Nigeria",
+    "FIPS": "NI",
+    "ISO": "NG | NGA | 566",
+    "Internet_Code": ".ng",
+    "Comment": ""
+  },
+  {
+    "Country": "Niue",
+    "FIPS": "NE",
+    "ISO": "NU | NIU | 570",
+    "Internet_Code": ".nu",
+    "Comment": ""
+  },
+  {
+    "Country": "Norfolk Island",
+    "FIPS": "NF",
+    "ISO": "NF | NFK | 574",
+    "Internet_Code": ".nf",
+    "Comment": ""
+  },
+  {
+    "Country": "North Macedonia",
+    "FIPS": "MK",
+    "ISO": "MK | MKD | 807",
+    "Internet_Code": ".mk",
+    "Comment": ""
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "FIPS": "CQ",
+    "ISO": "MP | MNP | 580",
+    "Internet_Code": ".mp",
+    "Comment": ""
+  },
+  {
+    "Country": "Norway",
+    "FIPS": "NO",
+    "ISO": "NO | NOR | 578",
+    "Internet_Code": ".no",
+    "Comment": ""
+  },
+  {
+    "Country": "Oman",
+    "FIPS": "MU",
+    "ISO": "OM | OMN | 512",
+    "Internet_Code": ".om",
+    "Comment": ""
+  },
+  {
+    "Country": "Pakistan",
+    "FIPS": "PK",
+    "ISO": "PK | PAK | 586",
+    "Internet_Code": ".pk",
+    "Comment": ""
+  },
+  {
+    "Country": "Palau",
+    "FIPS": "PS",
+    "ISO": "PW | PLW | 585",
+    "Internet_Code": ".pw",
+    "Comment": ""
+  },
+  {
+    "Country": "Palmyra Atoll",
+    "FIPS": "LQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Panama",
+    "FIPS": "PM",
+    "ISO": "PA | PAN | 591",
+    "Internet_Code": ".pa",
+    "Comment": ""
+  },
+  {
+    "Country": "Papua New Guinea",
+    "FIPS": "PP",
+    "ISO": "PG | PNG | 598",
+    "Internet_Code": ".pg",
+    "Comment": ""
+  },
+  {
+    "Country": "Paracel Islands",
+    "FIPS": "PF",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": ""
+  },
+  {
+    "Country": "Paraguay",
+    "FIPS": "PA",
+    "ISO": "PY | PRY | 600",
+    "Internet_Code": ".py",
+    "Comment": ""
+  },
+  {
+    "Country": "Peru",
+    "FIPS": "PE",
+    "ISO": "PE | PER | 604",
+    "Internet_Code": ".pe",
+    "Comment": ""
+  },
+  {
+    "Country": "Philippines",
+    "FIPS": "RP",
+    "ISO": "PH | PHL | 608",
+    "Internet_Code": ".ph",
+    "Comment": ""
+  },
+  {
+    "Country": "Pitcairn Islands",
+    "FIPS": "PC",
+    "ISO": "PN | PCN | 612",
+    "Internet_Code": ".pn",
+    "Comment": ""
+  },
+  {
+    "Country": "Poland",
+    "FIPS": "PL",
+    "ISO": "PL | POL | 616",
+    "Internet_Code": ".pl",
+    "Comment": ""
+  },
+  {
+    "Country": "Portugal",
+    "FIPS": "PO",
+    "ISO": "PT | PRT | 620",
+    "Internet_Code": ".pt",
+    "Comment": ""
+  },
+  {
+    "Country": "Puerto Rico",
+    "FIPS": "RQ",
+    "ISO": "PR | PRI | 630",
+    "Internet_Code": ".pr",
+    "Comment": ""
+  },
+  {
+    "Country": "Qatar",
+    "FIPS": "QA",
+    "ISO": "QA | QAT | 634",
+    "Internet_Code": ".qa",
+    "Comment": ""
+  },
+  {
+    "Country": "Reunion",
+    "FIPS": "RE",
+    "ISO": "RE | REU | 638",
+    "Internet_Code": ".re",
+    "Comment": ""
+  },
+  {
+    "Country": "Romania",
+    "FIPS": "RO",
+    "ISO": "RO | ROU | 642",
+    "Internet_Code": ".ro",
+    "Comment": ""
+  },
+  {
+    "Country": "Russia",
+    "FIPS": "RS",
+    "ISO": "RU | RUS | 643",
+    "Internet_Code": ".ru",
+    "Comment": ""
+  },
+  {
+    "Country": "Rwanda",
+    "FIPS": "RW",
+    "ISO": "RW | RWA | 646",
+    "Internet_Code": ".rw",
+    "Comment": ""
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "FIPS": "TB",
+    "ISO": "BL | BLM | 652",
+    "Internet_Code": ".bl",
+    "Comment": "ccTLD .fr and .gp may also be used"
+  },
+  {
+    "Country": "Saint Helena, Ascension, and Tristan da Cunha",
+    "FIPS": "SH",
+    "ISO": "SH | SHN | 654",
+    "Internet_Code": ".sh",
+    "Comment": "includes Saint Helena Island, Ascension Island, and the Tristan da Cunha archipelago"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "FIPS": "SC",
+    "ISO": "KN | KNA | 659",
+    "Internet_Code": ".kn",
+    "Comment": ""
+  },
+  {
+    "Country": "Saint Lucia",
+    "FIPS": "ST",
+    "ISO": "LC | LCA | 662",
+    "Internet_Code": ".lc",
+    "Comment": ""
+  },
+  {
+    "Country": "Saint Martin",
+    "FIPS": "RN",
+    "ISO": "MF | MAF | 663",
+    "Internet_Code": ".mf",
+    "Comment": "ccTLD .fr and .gp may also be used"
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "FIPS": "SB",
+    "ISO": "PM | SPM | 666",
+    "Internet_Code": ".pm",
+    "Comment": ""
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "FIPS": "VC",
+    "ISO": "VC | VCT | 670",
+    "Internet_Code": ".vc",
+    "Comment": ""
+  },
+  {
+    "Country": "Samoa",
+    "FIPS": "WS",
+    "ISO": "WS | WSM | 882",
+    "Internet_Code": ".ws",
+    "Comment": ""
+  },
+  {
+    "Country": "San Marino",
+    "FIPS": "SM",
+    "ISO": "SM | SMR | 674",
+    "Internet_Code": ".sm",
+    "Comment": ""
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "FIPS": "TP",
+    "ISO": "ST | STP | 678",
+    "Internet_Code": ".st",
+    "Comment": ""
+  },
+  {
+    "Country": "Saudi Arabia",
+    "FIPS": "SA",
+    "ISO": "SA | SAU | 682",
+    "Internet_Code": ".sa",
+    "Comment": ""
+  },
+  {
+    "Country": "Senegal",
+    "FIPS": "SG",
+    "ISO": "SN | SEN | 686",
+    "Internet_Code": ".sn",
+    "Comment": ""
+  },
+  {
+    "Country": "Serbia",
+    "FIPS": "RI",
+    "ISO": "RS | SRB | 688",
+    "Internet_Code": ".rs",
+    "Comment": ""
+  },
+  {
+    "Country": "Seychelles",
+    "FIPS": "SE",
+    "ISO": "SC | SYC | 690",
+    "Internet_Code": ".sc",
+    "Comment": ""
+  },
+  {
+    "Country": "Sierra Leone",
+    "FIPS": "SL",
+    "ISO": "SL | SLE | 694",
+    "Internet_Code": ".sl",
+    "Comment": ""
+  },
+  {
+    "Country": "Singapore",
+    "FIPS": "SN",
+    "ISO": "SG | SGP | 702",
+    "Internet_Code": ".sg",
+    "Comment": ""
+  },
+  {
+    "Country": "Sint Maarten",
+    "FIPS": "NN",
+    "ISO": "SX | SXM | 534",
+    "Internet_Code": ".sx",
+    "Comment": ""
+  },
+  {
+    "Country": "Slovakia",
+    "FIPS": "LO",
+    "ISO": "SK | SVK | 703",
+    "Internet_Code": ".sk",
+    "Comment": ""
+  },
+  {
+    "Country": "Slovenia",
+    "FIPS": "SI",
+    "ISO": "SI | SVN | 705",
+    "Internet_Code": ".si",
+    "Comment": ""
+  },
+  {
+    "Country": "Solomon Islands",
+    "FIPS": "BP",
+    "ISO": "SB | SLB | 090",
+    "Internet_Code": ".sb",
+    "Comment": ""
+  },
+  {
+    "Country": "Somalia",
+    "FIPS": "SO",
+    "ISO": "SO | SOM | 706",
+    "Internet_Code": ".so",
+    "Comment": ""
+  },
+  {
+    "Country": "South Africa",
+    "FIPS": "SF",
+    "ISO": "ZA | ZAF | 710",
+    "Internet_Code": ".za",
+    "Comment": ""
+  },
+  {
+    "Country": "South Georgia and the Islands",
+    "FIPS": "SX",
+    "ISO": "GS | SGS | 239",
+    "Internet_Code": ".gs",
+    "Comment": ""
+  },
+  {
+    "Country": "South Sudan",
+    "FIPS": "OD",
+    "ISO": "SS | SSD | 728",
+    "Internet_Code": "-",
+    "Comment": "IANA has designated .ss as the ccTLD for South Sudan, however it has not been activated in DNS root zone"
+  },
+  {
+    "Country": "Spain",
+    "FIPS": "SP",
+    "ISO": "ES | ESP | 724",
+    "Internet_Code": ".es",
+    "Comment": ""
+  },
+  {
+    "Country": "Spratly Islands",
+    "FIPS": "PG",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": ""
+  },
+  {
+    "Country": "Sri Lanka",
+    "FIPS": "CE",
+    "ISO": "LK | LKA | 144",
+    "Internet_Code": ".lk",
+    "Comment": ""
+  },
+  {
+    "Country": "Sudan",
+    "FIPS": "SU",
+    "ISO": "SD | SDN | 729",
+    "Internet_Code": ".sd",
+    "Comment": ""
+  },
+  {
+    "Country": "Suriname",
+    "FIPS": "NS",
+    "ISO": "SR | SUR | 740",
+    "Internet_Code": ".sr",
+    "Comment": ""
+  },
+  {
+    "Country": "Svalbard",
+    "FIPS": "SV",
+    "ISO": "SJ | SJM | 744",
+    "Internet_Code": ".sj",
+    "Comment": "ISO includes Jan Mayen"
+  },
+  {
+    "Country": "Sweden",
+    "FIPS": "SW",
+    "ISO": "SE | SWE | 752",
+    "Internet_Code": ".se",
+    "Comment": ""
+  },
+  {
+    "Country": "Switzerland",
+    "FIPS": "SZ",
+    "ISO": "CH | CHE | 756",
+    "Internet_Code": ".ch",
+    "Comment": ""
+  },
+  {
+    "Country": "Syria",
+    "FIPS": "SY",
+    "ISO": "SY | SYR | 760",
+    "Internet_Code": ".sy",
+    "Comment": ""
+  },
+  {
+    "Country": "Taiwan",
+    "FIPS": "TW",
+    "ISO": "TW | TWN | 158",
+    "Internet_Code": ".tw",
+    "Comment": ""
+  },
+  {
+    "Country": "Tajikistan",
+    "FIPS": "TI",
+    "ISO": "TJ | TJK | 762",
+    "Internet_Code": ".tj",
+    "Comment": ""
+  },
+  {
+    "Country": "Tanzania",
+    "FIPS": "TZ",
+    "ISO": "TZ | TZA | 834",
+    "Internet_Code": ".tz",
+    "Comment": ""
+  },
+  {
+    "Country": "Thailand",
+    "FIPS": "TH",
+    "ISO": "TH | THA | 764",
+    "Internet_Code": ".th",
+    "Comment": ""
+  },
+  {
+    "Country": "Timor-Leste",
+    "FIPS": "TT",
+    "ISO": "TL | TLS | 626",
+    "Internet_Code": ".tl",
+    "Comment": ""
+  },
+  {
+    "Country": "Togo",
+    "FIPS": "TO",
+    "ISO": "TG | TGO | 768",
+    "Internet_Code": ".tg",
+    "Comment": ""
+  },
+  {
+    "Country": "Tokelau",
+    "FIPS": "TL",
+    "ISO": "TK | TKL | 772",
+    "Internet_Code": ".tk",
+    "Comment": ""
+  },
+  {
+    "Country": "Tonga",
+    "FIPS": "TN",
+    "ISO": "TO | TON | 776",
+    "Internet_Code": ".to",
+    "Comment": ""
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "FIPS": "TD",
+    "ISO": "TT | TTO | 780",
+    "Internet_Code": ".tt",
+    "Comment": ""
+  },
+  {
+    "Country": "Tromelin Island",
+    "FIPS": "TE",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "administered as part of French Southern and Antarctic Lands; no ISO codes assigned"
+  },
+  {
+    "Country": "Tunisia",
+    "FIPS": "TS",
+    "ISO": "TN | TUN | 788",
+    "Internet_Code": ".tn",
+    "Comment": ""
+  },
+  {
+    "Country": "Turkey",
+    "FIPS": "TU",
+    "ISO": "TR | TUR | 792",
+    "Internet_Code": ".tr",
+    "Comment": ""
+  },
+  {
+    "Country": "Turkmenistan",
+    "FIPS": "TX",
+    "ISO": "TM | TKM | 795",
+    "Internet_Code": ".tm",
+    "Comment": ""
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "FIPS": "TK",
+    "ISO": "TC | TCA | 796",
+    "Internet_Code": ".tc",
+    "Comment": ""
+  },
+  {
+    "Country": "Tuvalu",
+    "FIPS": "TV",
+    "ISO": "TV | TUV | 798",
+    "Internet_Code": ".tv",
+    "Comment": ""
+  },
+  {
+    "Country": "Uganda",
+    "FIPS": "UG",
+    "ISO": "UG | UGA | 800",
+    "Internet_Code": ".ug",
+    "Comment": ""
+  },
+  {
+    "Country": "Ukraine",
+    "FIPS": "UP",
+    "ISO": "UA | UKR | 804",
+    "Internet_Code": ".ua",
+    "Comment": ""
+  },
+  {
+    "Country": "United Arab Emirates",
+    "FIPS": "AE",
+    "ISO": "AE | ARE | 784",
+    "Internet_Code": ".ae",
+    "Comment": ""
+  },
+  {
+    "Country": "United Kingdom",
+    "FIPS": "UK",
+    "ISO": "GB | GBR | 826",
+    "Internet_Code": ".uk",
+    "Comment": "for its internal communications, the European Union recommends the use of the code UK in lieu of the ISO 3166-2 code of GB"
+  },
+  {
+    "Country": "United States",
+    "FIPS": "US",
+    "ISO": "US | USA | 840",
+    "Internet_Code": ".us",
+    "Comment": ""
+  },
+  {
+    "Country": "United States Minor Outlying Islands",
+    "FIPS": "UM",
+    "ISO": "UM | UMI | 581",
+    "Internet_Code": ".um",
+    "Comment": "ISO includes Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, Wake Island"
+  },
+  {
+    "Country": "Uruguay",
+    "FIPS": "UY",
+    "ISO": "UY | URY | 858",
+    "Internet_Code": ".uy",
+    "Comment": ""
+  },
+  {
+    "Country": "Uzbekistan",
+    "FIPS": "UZ",
+    "ISO": "UZ | UZB | 860",
+    "Internet_Code": ".uz",
+    "Comment": ""
+  },
+  {
+    "Country": "Vanuatu",
+    "FIPS": "NH",
+    "ISO": "VU | VUT | 548",
+    "Internet_Code": ".vu",
+    "Comment": ""
+  },
+  {
+    "Country": "Venezuela",
+    "FIPS": "VE",
+    "ISO": "VE | VEN | 862",
+    "Internet_Code": ".ve",
+    "Comment": ""
+  },
+  {
+    "Country": "Vietnam",
+    "FIPS": "VM",
+    "ISO": "VN | VNM | 704",
+    "Internet_Code": ".vn",
+    "Comment": ""
+  },
+  {
+    "Country": "Virgin Islands",
+    "FIPS": "VQ",
+    "ISO": "VI | VIR | 850",
+    "Internet_Code": ".vi",
+    "Comment": ""
+  },
+  {
+    "Country": "Wake Island",
+    "FIPS": "WQ",
+    "ISO": "- | - | -",
+    "Internet_Code": "-",
+    "Comment": "ISO includes with the US Minor Outlying Islands"
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "FIPS": "WF",
+    "ISO": "WF | WLF | 876",
+    "Internet_Code": ".wf",
+    "Comment": ""
+  },
+  {
+    "Country": "West Bank",
+    "FIPS": "WE",
+    "ISO": "PS | PSE | 275",
+    "Internet_Code": ".ps",
+    "Comment": "ISO identifies as Occupied Palestinian Territory"
+  },
+  {
+    "Country": "Western Sahara",
+    "FIPS": "WI",
+    "ISO": "EH | ESH | 732",
+    "Internet_Code": ".eh",
+    "Comment": ""
+  },
+  {
+    "Country": "Yemen",
+    "FIPS": "YM",
+    "ISO": "YE | YEM | 887",
+    "Internet_Code": ".ye",
+    "Comment": ""
+  },
+  {
+    "Country": "Zambia",
+    "FIPS": "ZA",
+    "ISO": "ZM | ZMB | 894",
+    "Internet_Code": ".zm",
+    "Comment": ""
+  },
+  {
+    "Country": "Zimbabwe",
+    "FIPS": "ZI",
+    "ISO": "ZW | ZWE | 716",
+    "Internet_Code": ".zw",
+    "Comment": ""
+  }
+]
