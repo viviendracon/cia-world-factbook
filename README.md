@@ -10,6 +10,8 @@ Includes:
 ### Country files 
 - Named with country's ISO-3 codes
 - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
+- e.g. USA.json is the profile file for the United States of America
+
 
 ### Dependencies files 
 - Named with dependency's FIPS 2-digit code
@@ -20,6 +22,7 @@ Includes:
 - Errors represent entities without associated JSON files
 
 ## cia_fips_to_iso.json
+- Lists all countries and dependencies
 - Contains country name, FIPS code, ISO code mapping and relevant notes
 
 
