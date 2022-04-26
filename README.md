@@ -21,7 +21,7 @@ Includes:
 
 ### Export report
 - Successes show countries and dependencies successfully exported
-- Errors represent entities without associated JSON files
+- Errors represent entities without downloadable JSON files
 
 ## cia_fips_to_iso.json
 - Lists all countries and dependencies
