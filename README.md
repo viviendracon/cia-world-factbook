@@ -12,3 +12,5 @@ https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
 Dependencies files are named with FIPS 2-digit codes
 https://en.wikipedia.org/wiki/List_of_FIPS_country_codes
 
+cia_fips_to_iso.json
+*Contains country name, FIPS code, ISO code mappings
