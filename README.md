@@ -1,5 +1,6 @@
 # cia-world-factbook
 JSON country profiles from the CIA World Factbook
+* last updated Apr 25, 2022
 
 ## dist 
 Includes:
