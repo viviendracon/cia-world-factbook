@@ -17,6 +17,7 @@ Includes:
 ### Dependencies files 
 - Named with dependency's FIPS 2-digit code
 - https://en.wikipedia.org/wiki/List_of_FIPS_country_codes
+- e.g. IP.json is the profile file for Clipperton Island
 
 ### Export report
 - Successes show countries and dependencies successfully exported
