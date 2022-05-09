@@ -119,7 +119,7 @@
     "Comment": ""
   },
   {
-    "Country": "Bahamas The",
+    "Country": "Bahamas, The",
     "FIPS": "BF",
     "ISO": "BS | BHS | 044",
     "Internet_Code": ".bs",
@@ -385,14 +385,14 @@
     "Comment": ""
   },
   {
-    "Country": "Congo Democratic Republic of the",
+    "Country": "Congo, Democratic Republic of the",
     "FIPS": "CG",
     "ISO": "CD | COD | 180",
     "Internet_Code": ".cd",
     "Comment": "formerly Zaire"
   },
   {
-    "Country": "Congo Republic of the",
+    "Country": "Congo, Republic of the",
     "FIPS": "CF",
     "ISO": "CG | COG | 178",
     "Internet_Code": ".cg",
@@ -623,7 +623,7 @@
     "Comment": ""
   },
   {
-    "Country": "Gambia The",
+    "Country": "Gambia, The",
     "FIPS": "GA",
     "ISO": "GM | GMB | 270",
     "Internet_Code": ".gm",
@@ -938,14 +938,14 @@
     "Comment": ""
   },
   {
-    "Country": "Korea North",
+    "Country": "Korea, North",
     "FIPS": "KN",
     "ISO": "KP | PRK | 408",
     "Internet_Code": ".kp",
     "Comment": ""
   },
   {
-    "Country": "Korea South",
+    "Country": "Korea, South",
     "FIPS": "KS",
     "ISO": "KR | KOR | 410",
     "Internet_Code": ".kr",
@@ -1127,7 +1127,7 @@
     "Comment": ""
   },
   {
-    "Country": "Micronesia Federated States of",
+    "Country": "Micronesia, Federated States of",
     "FIPS": "FM",
     "ISO": "FM | FSM | 583",
     "Internet_Code": ".fm",
@@ -1582,7 +1582,7 @@
     "Comment": ""
   },
   {
-    "Country": "South Georgia and the Islands",
+    "Country": "South Georgia and South Sandwich Islands",
     "FIPS": "SX",
     "ISO": "GS | SGS | 239",
     "Internet_Code": ".gs",
@@ -1799,7 +1799,7 @@
     "Comment": ""
   },
   {
-    "Country": "United States Minor Outlying Islands",
+    "Country": "United States Pacific Island Wildlife Refuges",
     "FIPS": "UM",
     "ISO": "UM | UMI | 581",
     "Internet_Code": ".um",
@@ -1894,6 +1894,13 @@
     "FIPS": "ZI",
     "ISO": "ZW | ZWE | 716",
     "Internet_Code": ".zw",
+    "Comment": ""
+  },
+  {
+    "Country": "World",
+    "FIPS": "XX",
+    "ISO": "1W | 1W | 1W",
+    "Internet_Code": ".com",
     "Comment": ""
   }
 ]
